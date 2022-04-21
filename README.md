@@ -16,7 +16,7 @@ Opening 'index.html' in a web browser will bring up the main screen. Clicking on
 
 <h2><u>Screenshots:</u></h2>
 
-![screenshot1](assets/Screenshot_scheduler.png)
+![screenshot1](Assets/Screenshot_scheduler.png)
 
 
 ## License
