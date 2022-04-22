@@ -2,7 +2,7 @@
 
 ## Description
 
-This project uses HTML, CSS and JavaScript to create a multiple-choice quiz using various coding-related definitions and terms.
+This project uses HTML, CSS and JavaScript to create workday scheduler app that has retention of events entered
 
 ## Installation
 
@@ -12,7 +12,7 @@ Link: [https://cliff-rosenberg.github.io/05-Work_Day_Scheduler/](https://cliff-r
 
 ## Usage
 
-Opening 'index.html' in a web browser will bring up the main screen. Clicking on the 'Start Quiz' button starts the game. You will be asked questions and provide and answer by usinf the mouse to click on your choice. The timer starts running when the game starts and deincrements each second that passes. You receive a five second "penalty" time deduction each time you answer a question incorrectly. The game ends after all the questions are asked, or the timer reaches zero. After the game you are given a prompt to enter your name and that is stored along with your "score", which is the seconds left after the last question was answered.
+Opening 'index.html' in a web browser will bring up the main screen. The day is divided into hours, each is an editable field for text entry. Clicking the disk icon on the right side of the text bar will save the text you have entered there.
 
 <h2><u>Screenshots:</u></h2>
 
