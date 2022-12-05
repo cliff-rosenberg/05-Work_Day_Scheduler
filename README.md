@@ -1,4 +1,4 @@
-# Code Quiz
+# Work Day Scheduler
 
 ## Description
 
